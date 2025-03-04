@@ -136,7 +136,6 @@ function copy() {
         </MenubarMenu>
         <EditDropdown />
         <StyleDropdown />
-        <HelpDropdown />
       </Menubar>
     </div>
 
